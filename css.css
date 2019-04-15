@@ -31,7 +31,7 @@
 }
 #header_ ul.navi li{
 	border-width: 1px;
-	background: url(images/saparation.gif) no-repeat right;
+	background: url(../images/saparation.gif) no-repeat right;
 	height: 22px;
 	padding: 0 18px 0 5px;
 	margin: 0;
@@ -53,20 +53,20 @@
 	width: inherit;
 	letter-spacing: -1px;
 	background-repeat: no-repeat;
-	background-image: url('images/button.png');
+	background-image: url('../images/button.png');
 }
 #header_ ul.navi li a:hover{
 	color: #FF9933;
 	text-decoration: none;
 	background-repeat: no-repeat;
-	background-image: url('images/button_over.png');
+	background-image: url('../images/button_over.png');
 }
 #left_ {
 	float: left;
 	left: 0px;
 	top: 364px;
 	width: 266px;
-	background-image: url('images/left.jpg');
+	background-image: url('../images/left.jpg');
 	background-repeat: no-repeat;
 }
 #left_ h2{
@@ -123,7 +123,7 @@
 	left: 266px;
 	top: 364px;
 	width: 554px;
-	background-image: url('images/right.jpg');
+	background-image: url('../images/right.jpg');
 	background-repeat: no-repeat;
 }
 #right_ h2{
@@ -183,7 +183,7 @@
 	top: 572px;
 	width: 820px;
 	height: 41px;
-	background-image: url('images/footer1.jpg');
+	background-image: url('../images/footer1.jpg');
 }
 #footer-left_ {
 	float: left;
@@ -191,14 +191,14 @@
 	top: 613px;
 	width: 51px;
 	height: 22px;
-	background-image: url('images/footer_left.jpg');
+	background-image: url('../images/footer_left.jpg');
 }
 #footer-contents_ {
 	float: left;
 	left: 51px;
 	top: 613px;
 	width: 820px;
-	background-image: url('images/footer_contents.jpg');
+	background-image: url('../images/footer_contents.jpg');
 }
 #footer-contents_  p{
 	background: no-repeat;
@@ -237,7 +237,7 @@
 	top: 613px;
 	width: 51px;
 	height: 22px;
-	background-image: url('images/footer_right.jpg');
+	background-image: url('../images/footer_right.jpg');
 }
 #footer-bottom_ {
 	left: 0px;
@@ -245,7 +245,7 @@
 	width: 820px;
 	height: 65px;
 	float: left;
-	background-image: url('images/footer_bottom.jpg');
+	background-image: url('../images/footer_bottom.jpg');
 }
 
 body {
